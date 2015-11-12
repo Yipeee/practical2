@@ -18,7 +18,8 @@ public class BookDBAO {
         int i = random.nextInt(list.size());
         return list.get(i);
     }
-//gsdfafj
+
+
     Connection con;
     // Database configuration
     public static String url = "jdbc:mysql://localhost/test";
