@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ac9afda-21df-4080-914e-792e01f8ba70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/BookDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/BooksEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/model/EMF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/EclipseLink_JPA_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="C:\Users\asus\IdeaProjects\practical4\web\BookCatalogServlet.jsp" afterPath="$PROJECT_DIR$/web/bookcatalog.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo/BookCatalogServlet.java" afterPath="$PROJECT_DIR$/src/demo/BookCatalogServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo/BookDetailsServlet.java" afterPath="$PROJECT_DIR$/src/demo/BookDetailsServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/bookdetails.jsp" afterPath="$PROJECT_DIR$/web/bookdetails.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/practical2.iml" afterPath="$PROJECT_DIR$/practical2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/practical2_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/practical2_war_exploded.xml" />
-    </list>
+    <list default="true" id="9ac9afda-21df-4080-914e-792e01f8ba70" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,7 +135,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-14.384615">
               <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding />
+              <folding>
+                <marker date="1447321244573" expanded="true" signature="555:631" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,6 +162,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gideon_yyo@hotmail.com" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -703,12 +694,19 @@
       <created>1447319783248</created>
       <option name="number" value="Default" />
       <updated>1447319783248</updated>
-      <workItem from="1447319784254" duration="3291000" />
+      <workItem from="1447319784254" duration="3399000" />
     </task>
+    <task id="LOCAL-00001" summary="Practical 4">
+      <created>1447323148244</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1447323148244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3291000" />
+    <option name="totallyTimeSpent" value="3399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -746,6 +744,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practical 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practical 4" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -772,7 +774,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-14.384615">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
+          <folding>
+            <marker date="1447321244573" expanded="true" signature="555:631" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
